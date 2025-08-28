@@ -1,2 +1,2 @@
 # IA-programacion
-Mis trabajos.
+Mis ejercicios.
